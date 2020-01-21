@@ -111,3 +111,5 @@ export TERMINAL="st"
 
 source /usr/share/fzf/key-bindings.zsh
 source /usr/share/fzf/completion.zsh
+
+export EDITOR=vim

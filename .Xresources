@@ -1,0 +1,45 @@
+xcursor.theme: DMZ-White
+Xcursor.size: 48
+!Xft.dpi: 100
+!*dpi: 220
+
+! special
+!#define white #e5dcc5
+#define white #e6decf
+*.foreground:   white
+*.background:   #142233
+*.cursorColor:  white
+
+! black
+*.color0:       #26394d
+*.color8:       #3c4e61
+!*.color0:       #2d4359
+!*.color8:       #455c73
+
+! red
+*.color1:       #d95050
+*.color9:       #bf4343
+
+! green
+*.color2:       #8ebf69
+*.color10:      #80a35d
+
+! yellow
+*.color3:       #e6c75a
+*.color11:      #d9974c
+
+! blue
+*.color4:       #87b3d4
+*.color12:      #6999b8
+
+! magenta
+*.color5:       #9974b2
+*.color13:      #805b8c
+
+! cyan
+*.color6:       #3ba1a1
+*.color14:      #358c8c
+
+! white
+*.color7:       white
+*.color15:      #638499
